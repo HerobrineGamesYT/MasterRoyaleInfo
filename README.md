@@ -5,7 +5,7 @@ I was always eager to learn more about modding and creating custom content for t
 
 Master Royale consisted of two private servers, Master Royale Vanilla, and Master Royale Infinity.
 
-When Master Royale Infinity came out in 2021, the game quickly blew up due to becoming viral on TikTok. While unfortunately a lot of the viral videos and also the official Master Royale account got taken down due to Supercell copyright strikes, there are still lots of clips available to this day which I will be linking in this README file. I will mostly be focusing on that as that has been where most of my game design contributions have been.
+When Master Royale Infinity came out in 2021, the game quickly blew up due to becoming viral on TikTok. While unfortunately a lot of the viral videos and also the official Master Royale account got taken down due to Supercell copyright strikes, there are still lots of clips available to this day which I will be linking in this README file. I will mostly be focusing on Infinity that as that has been where most of my game design contributions have been.
 
 My design philosophy for Master Royale Infinity was all about making a game that was chaotic and entertaining, but fair. Different strategies have different counters and there are lots of fun decks players can come up with. This variety allows for the game to feel more balanced than it may appear in videos. This makes it a perfect game for virality, as it's chaotic enough to surprise a viewer watching the game on video, but still engaging and fair to the player.
 
