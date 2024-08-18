@@ -52,7 +52,6 @@ While Master Royale has had a lot of interesting updates over time, here are som
 
 Some gameplay clips of Master Royale Infinity:
 - https://www.tiktok.com/@misterreupload4ogs/video/7327756080581184799 (Showcases teleporting miner card, and rage spirits/electro spirit mods which I was all responsible for)
-- https://www.tiktok.com/@wandzin.calvo/video/7320786404580003078 (Portugese Commentary. Master Royale had a pretty global audience)
+- https://www.tiktok.com/@skerdep7/video/7308386701255167237 (Spanish Commentary. Master Royale had a pretty global audience)
 - https://www.tiktok.com/@master_royale_beast/video/7072090470561615110 (Master Royale Infinity strategy video from March 2022)
-- https://www.tiktok.com/@lord_matheusx/video/7289192992752094470 (Viral video from Brazilian community, over 1M views)
-- https://www.tiktok.com/@misterreupload4ogs/video/7365510557052587310 (Content creator vs top player)
+- https://www.tiktok.com/@misterreupload4ogs/video/7365510557052587310 (Content creator vs top player. Unfortunately the audio was removed.)
